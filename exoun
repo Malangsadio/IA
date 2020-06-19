@@ -1,0 +1,2 @@
+rect_area(Width, Height, Area):- Area is Width * Height.
+
